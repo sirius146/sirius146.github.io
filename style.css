@@ -1,0 +1,16 @@
+
+section{
+    min-height: 420px;
+}
+
+.jumbotron{
+    background-color: white ;
+    background-size: cover; 
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.about{
+    background-color: #facec3 ;
+}
